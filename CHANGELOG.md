@@ -1,3 +1,10 @@
+## CHANGES IN VERSION 1.1.1 (from 1.1)
+
+Patch release addressing the following:
+
+### Fixes
+- [Disabled Nagle Algorithm in adbkit connection](https://github.com/openstf/adbkit/issues/41) to improve remote debugging speed 
+
 ## CHANGES IN VERSION 1.1 (from 1.0.10)
 
 Minor release addressing the following:
